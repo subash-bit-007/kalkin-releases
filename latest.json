@@ -1,17 +1,11 @@
 {
  "product": "Kalkin Intelligence",
  "version": "18.1.1",
- "notes": [
-  "Test release: checks that Update now works end to end"
- ],
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.1.1/Kalkin.Intelligence.Setup.18.1.1.exe",
+ "notes": [],
  "support": {
   "whatsapp": "+91 7731925788",
   "email": "subramanyamthale@gmail.com",
   "videos": ""
  },
- "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "sha256": "08cac8995572f0c7c26d3c2f76b6c1a35e8c9ffb3cc87b8bf53081dc7d021e62",
- "size": 14955307,
- "sig": "SY-iyWH9s142BBCOaSJ40zLrRy4nnPcmWpfo_cBydwbpg3kUvqBvhQMXrou_1PQbwdg4htcnPzi6kTLfT8vtAw"
+ "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec"
 }
