@@ -1,4 +1,12 @@
 {
  "product": "Kalkin Intelligence",
+ "version": "18.0",
+ "notes": [],
+ "download": "",
+ "support": {
+  "whatsapp": "+91 7731925788",
+  "email": "subramanyamthale@gmail.com",
+  "videos": ""
+ },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec"
 }
