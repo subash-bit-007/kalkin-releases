@@ -1,11 +1,20 @@
 {
  "product": "Kalkin Intelligence",
- "version": "18.1.1",
- "notes": [],
+ "version": "18.2",
+ "notes": [
+  "Demo company: load Velmora Industries Pvt Ltd (made-up data) to see every screen working",
+  "Exit demo company removes it in one click; your own data is not touched",
+  "The first upload of your own file asks to remove the demo first",
+  "Old update files are cleaned up by themselves"
+ ],
  "support": {
   "whatsapp": "+91 7731925788",
   "email": "subramanyamthale@gmail.com",
   "videos": ""
  },
- "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec"
+ "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.2/Kalkin.Intelligence.Setup.18.2.exe",
+ "sha256": "1a544eb4381ca0d4f0dda0835e75948195b6978f5e5208f555e8109e5d52586a",
+ "size": 15111275,
+ "sig": "NK0DTonT4ylfcnVuiURgaYtmKWxLZ1DSDnGHr9eS3Y76MmJPdjpGR0YcsZ3x7CQgDkLIOllA5yaHrxq9q91ZCw"
 }
