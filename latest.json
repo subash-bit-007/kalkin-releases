@@ -1,13 +1,12 @@
 {
  "product": "Kalkin Intelligence",
- "version": "18.3",
+ "version": "18.4",
  "notes": [
-  "User guide inside the software: ? > User guide, with search, pictures and examples",
-  "Show me on screen: short tours that light up each screen's main parts",
-  "New here? A 3-step start for new users (? > Getting started)",
-  "Search (Ctrl K) also finds answers in the user guide",
-  "Go back and forward like Chrome: two-finger swipe, mouse buttons or Alt + arrows",
-  "Dark mode in the style of VS Code, and sharper text"
+  "New: Paid more than the best price, same month (Vendor comparison): one figure and the list behind it",
+  "Compare with now uses last year's weighted average by default, so a small test buy no longer sets the bar; averages for the last 3 to 12 months and chosen dates too",
+  "Item page and Exceptions explain the average price in plain words",
+  "Bigger demo company and a refreshed user guide with new pictures",
+  "New icon from the Kalkin logo"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -15,8 +14,8 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.3/Kalkin.Intelligence.Setup.18.3.exe",
- "sha256": "731ec98e934a77b241abc8354401c7e898bcf16ef90b167369ecdc661166755d",
- "size": 15977499,
- "sig": "BfbISMpKtJSRzflpE9yiadHJE1wk73tngZeOKovMGDszq2eqxReDUj5dKwrRgiFRVYZizgKokspw910t1XyDCw"
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.4/Kalkin.Intelligence.Setup.18.4.exe",
+ "sha256": "2311ce3f80bba311cb95776c412066a98df696189b455fda5d70129531c20ee8",
+ "size": 16028194,
+ "sig": "EIlD-BMYCU8T8Ql_X1DrJM8ng7IQpj77ODUdS5C5YenmDMCSqphD1ACOaPJw115lC_VlDGCoRISDJclySy_gDQ"
 }
