@@ -1,12 +1,10 @@
 {
  "product": "Kalkin Intelligence",
- "version": "18.4",
+ "version": "18.5",
  "notes": [
-  "New: Paid more than the best price, same month (Vendor comparison): one figure and the list behind it",
-  "Compare with now uses last year's weighted average by default, so a small test buy no longer sets the bar; averages for the last 3 to 12 months and chosen dates too",
-  "Item page and Exceptions explain the average price in plain words",
-  "Bigger demo company and a refreshed user guide with new pictures",
-  "New icon from the Kalkin logo"
+  "Fix: a purchase report loaded in parts (for example week by week) no longer replaces the earlier weeks of the same month. A file now replaces only the dates it covers.",
+  "Excel files are read much faster: checking a large upload takes about half the time or less.",
+  "Opening after an update is quick when the numbers have not changed; when they have, the opening screen says it is preparing your numbers."
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -14,8 +12,8 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.4/Kalkin.Intelligence.Setup.18.4.exe",
- "sha256": "2311ce3f80bba311cb95776c412066a98df696189b455fda5d70129531c20ee8",
- "size": 16028194,
- "sig": "EIlD-BMYCU8T8Ql_X1DrJM8ng7IQpj77ODUdS5C5YenmDMCSqphD1ACOaPJw115lC_VlDGCoRISDJclySy_gDQ"
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.5/Kalkin.Intelligence.Setup.18.5.exe",
+ "sha256": "dd6b00661b2c1de2a74fb2ef5deab9d1f8100134e16103aad4973b18f47aec67",
+ "size": 16055163,
+ "sig": "setYSxbVnubMhvsCDf_g_7r4APeQ6I0qHTavPJS2iWCxhR_c-QKVybP3cRu8IbaOk7OM31LX-tpsYalk87T0Cw"
 }
