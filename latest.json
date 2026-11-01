@@ -1,10 +1,11 @@
 {
  "product": "Kalkin Intelligence",
- "version": "18.5",
+ "version": "19.0",
  "notes": [
-  "Fix: a purchase report loaded in parts (for example week by week) no longer replaces the earlier weeks of the same month. A file now replaces only the dates it covers.",
-  "Excel files are read much faster: checking a large upload takes about half the time or less.",
-  "Opening after an update is quick when the numbers have not changed; when they have, the opening screen says it is preparing your numbers."
+  "Kalkin sorts your items into groups for you: Main group, Group and Sub-group, with word lists for six industries",
+  "Item master: three boxes (Done for you, Please look, New groups) with Why? for every item; fix one and its look-alikes follow",
+  "Kalkin AI (only if you allow it; reads item names only) sorts the items Kalkin is unsure of and double-checks the rest, while you keep working",
+  "User guide: new pages on groups and Kalkin AI"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -12,8 +13,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v18.5/Kalkin.Intelligence.Setup.18.5.exe",
- "sha256": "dd6b00661b2c1de2a74fb2ef5deab9d1f8100134e16103aad4973b18f47aec67",
- "size": 16055163,
- "sig": "setYSxbVnubMhvsCDf_g_7r4APeQ6I0qHTavPJS2iWCxhR_c-QKVybP3cRu8IbaOk7OM31LX-tpsYalk87T0Cw"
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.0/Kalkin.Intelligence.Setup.19.0.exe",
+ "sha256": "2ed6df7d950d3c593064350fc00e163a468bea649e30ee2ac126ac77ef8ea666",
+ "size": 16130709,
+ "sig": "jl1zM3ZYnG9_OQVdZJqFT5cXNzUz5JshY9frNpHz6GSi4TU8k8OUWbmlGEq4BYSrMknU3fmvtqD4zNyXwBDXCA",
+ "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
