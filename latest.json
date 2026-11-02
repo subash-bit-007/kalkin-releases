@@ -1,9 +1,10 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.5",
+ "version": "19.5.1",
  "notes": [
-  "Fill sub-groups by type also finds items in the wrong group and offers to move each to one of your own groups",
-  "Tidy up: the Similar button can no longer hide"
+  "Sub-groups: choose item by item; your choices are kept as you go (Review sub-groups reopens them, even after closing Kalkin)",
+  "Apply the groups you have checked now, the rest later; Suggest again with a hint",
+  "An item that fits none of your groups can go to a new group; brand as the type where it sets the price"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -11,9 +12,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.5/Kalkin.Intelligence.Setup.19.5.exe",
- "sha256": "a03228f9ff6ec1572ee22b3889e00d5e8bc46e4a8faf23c3a30dcc06f3611ef6",
- "size": 16210880,
- "sig": "PJrdSb3fJ2wyT4EaWpOnNfcyKqDyqF_9Ok0pZcBbtbg9TdsD4FIcH9zDWhtoNFzyT74p94B457o2OkrNR4hmDw",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.5.1/Kalkin.Intelligence.Setup.19.5.1.exe",
+ "sha256": "137d2c91a8c444b0bedf2428373468c803cedb3503a78925b9b93908a1561d86",
+ "size": 16215430,
+ "sig": "YMO-4q3aptrsoQEV83SgEf1awuLZfFzSOcpp8rnuS-4vz00TbIkydbx_QWiatquo5I_1E3lbxndX7po3G1LGBw",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
