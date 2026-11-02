@@ -1,9 +1,9 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.3.1",
+ "version": "19.4",
  "notes": [
-  "Tidy up your groups: click × on a group to keep just that one out of a set",
-  "Kalkin AI no longer suggests merging a process or service with a material"
+  "Fill sub-groups by type: Kalkin AI splits each group by material, kind or grade (never size) and fills items without a sub-group; you approve, rename or leave out",
+  "Tidy up your groups in two parts: clear duplicates ticked, similar ones folded for you to decide"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -11,9 +11,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.3.1/Kalkin.Intelligence.Setup.19.3.1.exe",
- "sha256": "6688f328f2d2d85268cc513ba3a641748e3a63c77ed6eb5dd3f2232e8ec6c6ed",
- "size": 16186892,
- "sig": "-kQkO5bEyDW3BqJLXDS6ZHiZsmGdn1OfOCVJLKqrZoU9VcylqQ-B5me4ENj_VHZ5aV9bfioyJy3QOZMaURNuBQ",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.4/Kalkin.Intelligence.Setup.19.4.exe",
+ "sha256": "f751ba39ed877969e4269f9d671d862b4a7fc77185e8a93c4d45b748e51d437b",
+ "size": 16205666,
+ "sig": "XLmcTWWUnxW37wNNdOljij7PgNwkKxR02RLrdfGz_GwNo89RRjnW_sWm0P9RCrn7M0jnMrTAckMkIjqiMr66BQ",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
