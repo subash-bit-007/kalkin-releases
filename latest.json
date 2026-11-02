@@ -1,11 +1,10 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.1",
+ "version": "19.2",
  "notes": [
-  "Kalkin AI gets to know your company once: looks it up online, reads your item names and asks up to 3 short questions",
-  "Kalkin AI learns your way of grouping from your own choices every time it sorts",
-  "When you start buying a whole new family of things, Kalkin adds it to what it knows (with Undo)",
-  "GSTIN at sign-up and in Settings > Licence"
+  "Tidy up your groups: Kalkin AI finds groups that are the same thing under different names; tick the ones to merge (Undo any time)",
+  "Stronger learning: each item is sorted with its own closest look-alikes from your items",
+  "What Kalkin understood now shows your business in Kalkin AI's words"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -13,9 +12,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.1/Kalkin.Intelligence.Setup.19.1.exe",
- "sha256": "9338cb56e8ff18a2a53705f16105627a44aee7b179ffd35af80b47a72e20840d",
- "size": 16158344,
- "sig": "YBWb2FTcuu2n-PRpTdva8EJUjbXCiw06pm8MT9O8DyeZmIk6vkcUTwT1-H3HXDwZdAnQf8sNOxaZA-Sxv3eCCw",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.2/Kalkin.Intelligence.Setup.19.2.exe",
+ "sha256": "04c40824277c8c51aa0435efe7b30e017dadc1b78ed9194881a17a39e4c90fe3",
+ "size": 16174771,
+ "sig": "31OYiDS5lL-Aq1URapiL6d_fTQ-H7bcdr1HlZm3Pq5cJxhb5LqiQxSaCG2D8A9i-AWHQ3DRSHivPsZSA3Uy3Cg",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
