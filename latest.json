@@ -1,9 +1,10 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.2.1",
+ "version": "19.3",
  "notes": [
-  "Tidy up your groups: the list stays still when you untick a set",
-  "A merged set can take a new name: Kalkin AI offers one when none of yours fits, or type your own"
+  "Merged groups: see every merge and Split back any time",
+  "Tidy up your groups looks twice and reads more example items, so it finds more",
+  "Sub-groups written differently only in capitals, spaces or a final s show as one"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -11,9 +12,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.2.1/Kalkin.Intelligence.Setup.19.2.1.exe",
- "sha256": "60576539371927f80988bf1cab16d5e70e80e9f0852d31c0b07a1832ea1fd7b7",
- "size": 16175251,
- "sig": "cnjAPPCH4b1FRFHD6xDk1LD81ANP2cu6z2Nsj119FjmaxSJl2e7uwQDuxz6PjQ58RuuYZwjodL6UnQsk8rVFBw",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.3/Kalkin.Intelligence.Setup.19.3.exe",
+ "sha256": "fc2d4c3680c9a875b0806c4b8f785e502544026d0a6625902655392e9462c9cd",
+ "size": 16187328,
+ "sig": "DFTv4zudhrUR7Ysm5xlQNsfyhRe9gQV09e6E2VAHOL9iVa-mxsM5h0fzypa0VvCkiFpovOdqH5NxoYq1KqlNDw",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
