@@ -1,10 +1,9 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.2",
+ "version": "19.2.1",
  "notes": [
-  "Tidy up your groups: Kalkin AI finds groups that are the same thing under different names; tick the ones to merge (Undo any time)",
-  "Stronger learning: each item is sorted with its own closest look-alikes from your items",
-  "What Kalkin understood now shows your business in Kalkin AI's words"
+  "Tidy up your groups: the list stays still when you untick a set",
+  "A merged set can take a new name: Kalkin AI offers one when none of yours fits, or type your own"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -12,9 +11,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.2/Kalkin.Intelligence.Setup.19.2.exe",
- "sha256": "04c40824277c8c51aa0435efe7b30e017dadc1b78ed9194881a17a39e4c90fe3",
- "size": 16174771,
- "sig": "31OYiDS5lL-Aq1URapiL6d_fTQ-H7bcdr1HlZm3Pq5cJxhb5LqiQxSaCG2D8A9i-AWHQ3DRSHivPsZSA3Uy3Cg",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.2.1/Kalkin.Intelligence.Setup.19.2.1.exe",
+ "sha256": "60576539371927f80988bf1cab16d5e70e80e9f0852d31c0b07a1832ea1fd7b7",
+ "size": 16175251,
+ "sig": "cnjAPPCH4b1FRFHD6xDk1LD81ANP2cu6z2Nsj119FjmaxSJl2e7uwQDuxz6PjQ58RuuYZwjodL6UnQsk8rVFBw",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
