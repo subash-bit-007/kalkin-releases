@@ -1,10 +1,11 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.5.2",
+ "version": "19.6",
  "notes": [
-  "Sub-groups: quick controls per group are back (× a type, rename a type, Also fill the guesses)",
-  "Kalkin AI gives its best guess instead of 'not clear' and keeps your own sub-group names",
-  "Running it again keeps everything you ticked or changed"
+  "Sorting is lighter: one short list with only the items worth a look, everything already ticked.",
+  "Look-alike items come as one row; change one and Kalkin offers the same for the others like it.",
+  "New: Sort all - one click puts every item into Main group, Group and Sub-group.",
+  "New items of every upload (also your Inbox folder) are sorted by themselves."
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -12,9 +13,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.5.2/Kalkin.Intelligence.Setup.19.5.2.exe",
- "sha256": "9521346282619e2b91f3e72eeb35dbb67824231a73f680193817e73939d111f8",
- "size": 16217968,
- "sig": "XkTZE71o8ng84-uq-R0ST1mmunljNmLCW9cYJZRKpkR6Ii3a-ryB98uyg5STubfDi8LRetpmYcqVekePbeMnBw",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.6/Kalkin.Intelligence.Setup.19.6.exe",
+ "sha256": "a60e0bdb83cc8e789733a3ae0752f61ce22655506c9a0b28692a7c5f118ad809",
+ "size": 16237087,
+ "sig": "J22dedbuCkOD1noZTG5jo0gn8-V0SJ7eGqGQ-yLoqwKQLqmqvklMM0kwsbSZ3F4WhnI4KsD5dUA22QUr7TypAQ",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
