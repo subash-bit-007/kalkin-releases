@@ -1,9 +1,9 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.4.1",
+ "version": "19.5",
  "notes": [
-  "Fill sub-groups by type: See items on every group before you apply",
-  "A group that fails no longer stops the run; big groups are done in parts"
+  "Fill sub-groups by type also finds items in the wrong group and offers to move each to one of your own groups",
+  "Tidy up: the Similar button can no longer hide"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -11,9 +11,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.4.1/Kalkin.Intelligence.Setup.19.4.1.exe",
- "sha256": "1b4573164ed13c624065439739fab550d960fec37da4d29c0c5eed88731ab31a",
- "size": 16208993,
- "sig": "S3RGSXo4XsI7l1chn7OnThmurGiOzs8NOXKgQaDD6AuCd0JLidG4EtBDz-EG38sVtvjyi28duJfkjAkfzfbHBg",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.5/Kalkin.Intelligence.Setup.19.5.exe",
+ "sha256": "a03228f9ff6ec1572ee22b3889e00d5e8bc46e4a8faf23c3a30dcc06f3611ef6",
+ "size": 16210880,
+ "sig": "PJrdSb3fJ2wyT4EaWpOnNfcyKqDyqF_9Ok0pZcBbtbg9TdsD4FIcH9zDWhtoNFzyT74p94B457o2OkrNR4hmDw",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
