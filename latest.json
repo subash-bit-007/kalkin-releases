@@ -1,11 +1,11 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.6",
+ "version": "19.7",
  "notes": [
-  "Sorting is lighter: one short list with only the items worth a look, everything already ticked.",
-  "Look-alike items come as one row; change one and Kalkin offers the same for the others like it.",
-  "New: Sort all - one click puts every item into Main group, Group and Sub-group.",
-  "New items of every upload (also your Inbox folder) are sorted by themselves."
+  "A file without groups: Kalkin AI plans your Main groups and Groups, you approve them on one screen, then every item is sorted",
+  "Kalkin AI double-checks every group before you see it: clearly misplaced items move, unsure ones that matter are asked (30 at most)",
+  "Groups Kalkin AI added for items that fit nowhere are shown with See them",
+  "Sorting with Kalkin AI is included: no usage limit to watch"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -13,9 +13,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.6/Kalkin.Intelligence.Setup.19.6.exe",
- "sha256": "a60e0bdb83cc8e789733a3ae0752f61ce22655506c9a0b28692a7c5f118ad809",
- "size": 16237087,
- "sig": "J22dedbuCkOD1noZTG5jo0gn8-V0SJ7eGqGQ-yLoqwKQLqmqvklMM0kwsbSZ3F4WhnI4KsD5dUA22QUr7TypAQ",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.7/Kalkin.Intelligence.Setup.19.7.exe",
+ "sha256": "99d075509e7d3594a2358ff539d3523d58c9a8fe78cbe8122559390a497adb9e",
+ "size": 16290917,
+ "sig": "JkKvuJWEO9NtnvTnguhM2iqw7dJevps357WveRuCZ9tASPCahlnMUJJ8t4rOfm2_r-qxSDSM9CNNTzL-_KVyDQ",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
