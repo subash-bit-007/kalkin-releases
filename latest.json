@@ -1,11 +1,11 @@
 {
  "product": "Kalkin Intelligence",
- "version": "19.7",
+ "version": "20.0",
  "notes": [
-  "A file without groups: Kalkin AI plans your Main groups and Groups, you approve them on one screen, then every item is sorted",
-  "Kalkin AI double-checks every group before you see it: clearly misplaced items move, unsure ones that matter are asked (30 at most)",
-  "Groups Kalkin AI added for items that fit nowhere are shown with See them",
-  "Sorting with Kalkin AI is included: no usage limit to watch"
+  "New: Ask Kalkin. Ask anything about your purchases in your own words and get a clear answer, Kalkin's own analysis and what to do next.",
+  "Click any number in an answer to see exactly how it was worked out, with a table that adds up to it and the bills behind it.",
+  "Tell Ask Kalkin what to remember (for example items your client pays for) and every answer follows it.",
+  "Ask Kalkin comes with Purchase Intelligence with Ask Kalkin, and with the first 7 days of every trial. User guide: new chapter 4."
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -13,9 +13,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v19.7/Kalkin.Intelligence.Setup.19.7.exe",
- "sha256": "99d075509e7d3594a2358ff539d3523d58c9a8fe78cbe8122559390a497adb9e",
- "size": 16290917,
- "sig": "JkKvuJWEO9NtnvTnguhM2iqw7dJevps357WveRuCZ9tASPCahlnMUJJ8t4rOfm2_r-qxSDSM9CNNTzL-_KVyDQ",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v20.0/Kalkin.Intelligence.Setup.20.0.exe",
+ "sha256": "3108645cf120094945b4d72ca0741d4e285800dbdfd39169b5216e17cd564956",
+ "size": 16648713,
+ "sig": "AoTFhS_6s87MZS6iDG4CLznvDb9G6hAoYaXRDilqB0Vk5Hsbtyt2k8Mw0ZvlLVZ0qaoKG9NDDasWaucPqpb6Aw",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
