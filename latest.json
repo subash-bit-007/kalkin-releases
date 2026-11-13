@@ -1,11 +1,12 @@
 {
  "product": "Kalkin Intelligence",
- "version": "20.0",
+ "version": "20.1",
  "notes": [
-  "New: Ask Kalkin. Ask anything about your purchases in your own words and get a clear answer, Kalkin's own analysis and what to do next.",
-  "Click any number in an answer to see exactly how it was worked out, with a table that adds up to it and the bills behind it.",
-  "Tell Ask Kalkin what to remember (for example items your client pays for) and every answer follows it.",
-  "Ask Kalkin comes with Purchase Intelligence with Ask Kalkin, and with the first 7 days of every trial. User guide: new chapter 4."
+  "Ask Kalkin answers now flow in word by word, like ChatGPT, with a Thinking line that stays as Worked for N s.",
+  "Up to 3 suggested next questions under each answer; copy an answer; edit a question and ask again.",
+  "Past chats show full names and can be searched, renamed and deleted.",
+  "The side panel sits beside the screen; no more jumping or blinking while you read; a new Ask Kalkin button.",
+  "Buttons keep their colour when you point at them."
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -13,9 +14,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v20.0/Kalkin.Intelligence.Setup.20.0.exe",
- "sha256": "3108645cf120094945b4d72ca0741d4e285800dbdfd39169b5216e17cd564956",
- "size": 16648713,
- "sig": "AoTFhS_6s87MZS6iDG4CLznvDb9G6hAoYaXRDilqB0Vk5Hsbtyt2k8Mw0ZvlLVZ0qaoKG9NDDasWaucPqpb6Aw",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v20.1/Kalkin.Intelligence.Setup.20.1.exe",
+ "sha256": "b326f2f9ed1f29e76bfa4ca5328ee825dc0cfe5fdca2d1000e4dbeec3cdfb90c",
+ "size": 16655849,
+ "sig": "VZjfOp3VrGuGLEO0gLegwudzPyMj3IBk6TPQV9rh0v49TeMALs9wxdsT5xAPI1VfCE8cD962o-eboe_wp80pAA",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
