@@ -1,11 +1,11 @@
 {
  "product": "Kalkin Intelligence",
- "version": "21.0",
+ "version": "22.0",
  "notes": [
-  "Ask Kalkin rebuilt: a senior purchase analyst that works out every number from your bills.",
-  "Short questions answered in seconds with the facts you would ask next; big questions get a deep analysis, checked before you see it.",
-  "Kalkin Credits: a deep analysis for every day of the year with the Ask Kalkin plan (see Your plan).",
-  "Notes with Save, market prices from the web, and saved answers for repeat questions."
+  "Ask Kalkin: one Proof button per finding, with what it means, a picture and a table from your bills, what to do today, and the full working",
+  "Kalkin AI checks every finding against your bills and corrects it when the figures say otherwise",
+  "New pictures: Pareto, histogram, 2x2 matrix, funnel and radar, drawn only where they help",
+  "Follow-up questions, units, rupee format and charts made clearer"
  ],
  "support": {
   "whatsapp": "+91 7731925788",
@@ -13,9 +13,9 @@
   "videos": ""
  },
  "signupUrl": "https://script.google.com/macros/s/AKfycbyBdfhxgnZsZTQc87oA0sN_8i1RTv4ifYAvBRjrdElZjs4OCLxTSR1rbARTRIJZj8NE/exec",
- "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v21.0/Kalkin.Intelligence.Setup.21.0.exe",
- "sha256": "393ec1c85b8717f60bcb74f07eb0864492c5174e7d7b0cbf3392f3789ae1f759",
- "size": 16899578,
- "sig": "hlXyEMqnzSqZudp0PsLisfB0s1qebuR37hMsooPzby4fH0N2jApzq2QSVHo0NWOAFFL09EgS3IXDbiygXLBvCA",
+ "download": "https://github.com/subash-bit-007/kalkin-releases/releases/download/v22.0/Kalkin.Intelligence.Setup.22.0.exe",
+ "sha256": "ea86ff99d578da44a7149f3fef1dddb2a277b0c9374734da580c88255079c2d1",
+ "size": 16993029,
+ "sig": "A68OropKBXqhT0KcUUcYX7IkNmBO9rb8OC2AE-jsbs2GayEuNol3yY4qw0AI8jeSHgdb7d4LTqL2prc3p3EXBA",
  "aiUrl": "https://kalkin-relay.kalkin-relay.workers.dev"
 }
